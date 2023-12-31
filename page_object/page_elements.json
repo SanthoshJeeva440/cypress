@@ -1,0 +1,14 @@
+{
+    "login_page":{
+        "username":"#username",
+        "password":"#password",
+        "login_button":"#login",
+        "again_login":".reg_success>a"
+
+    },
+    "search_hotel_page":{
+        "logout_button":".welcome_menu>a:nth-child(5)",
+        "search_hotel_title":".login_title"
+
+    }
+}
